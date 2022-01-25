@@ -1,0 +1,20 @@
+mat-form-field{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.container{
+    text-align: center;
+    font-size: 12px;
+}
+.error{
+    font-size: 2px;
+    
+}
+.date{
+    padding-top: 10px;
+    padding-left: 10px;
+}
